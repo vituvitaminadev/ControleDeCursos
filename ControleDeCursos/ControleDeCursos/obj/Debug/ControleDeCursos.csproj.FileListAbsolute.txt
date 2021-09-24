@@ -1,0 +1,52 @@
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\ControleDeCursos.exe.config
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\ControleDeCursos.exe
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\ControleDeCursos.pdb
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\MySqlConnector.dll
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\System.Buffers.dll
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\System.Memory.dll
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\MySqlConnector.xml
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\System.Buffers.xml
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\System.Memory.xml
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.csprojAssemblyReference.cache
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmPrincipal.resources
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmCursos.resources
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmProfessores.resources
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmTurmas.resources
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.Properties.Resources.resources
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.csproj.GenerateResource.cache
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.csproj.CoreCompileInputs.cache
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.csproj.CopyComplete
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.exe
+C:\Users\Marcelle Chaves\Desktop\Cotemig\Segunda Etapa\Controle de Cursos - CERTO\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.pdb
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\ControleDeCursos.exe.config
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\ControleDeCursos.exe
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\ControleDeCursos.pdb
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\MySqlConnector.dll
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\System.Buffers.dll
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\System.Memory.dll
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\System.Numerics.Vectors.dll
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\MySqlConnector.xml
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\System.Buffers.xml
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\System.Memory.xml
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\System.Numerics.Vectors.xml
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Download\ControleDeCursos\ControleDeCursos\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.csprojAssemblyReference.cache
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmPrincipal.resources
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmCursos.resources
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmProfessores.resources
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.FrmTurmas.resources
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.Properties.Resources.resources
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.csproj.GenerateResource.cache
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.csproj.CoreCompileInputs.cache
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.csproj.CopyComplete
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.exe
+D:\Download\ControleDeCursos\ControleDeCursos\obj\Debug\ControleDeCursos.pdb
